@@ -1,0 +1,54 @@
+.navegacao2 ol{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.navegacao1{
+    background-color: white;
+    height: 90px;
+    color: rgb(0, 0, 0);
+    font-size: 70px;    
+}
+
+.navegacao1 ol{
+    list-style-type:  none;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0;
+}
+
+.fundo{
+    background-color: black;
+}
+
+.imagem{ background-image: url(curso.png);
+height: 400px; ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+td{
+border: 1px purple solid;
+height: 150px;
+width: 900px;
+}
+
+
+.caixa{
+    width: 1100px;
+    height: 237px;
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+   
+    
+}
+
+form{
+    font-size: 20px;
+}
